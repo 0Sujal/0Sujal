@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sujal Dua</h1>
 <h3 align="center">Cloud Engineer, DevOps enthusiast, AI explorer.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0sujal" alt="0sujal" /></a> </p>
-
 - 🔭 I’m currently working on **Implementing Cloud-Native Microservices Architecture**
 
 - 🌱 I’m currently learning **Microservices Architecture, Orchestation Tools, IAC**
