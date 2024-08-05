@@ -1,4 +1,4 @@
-[MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)]
+[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)]
 <h1 align="center">Hi 👋, I'm Sujal Dua</h1>
 <h3 align="center">Cloud Engineer, DevOps enthusiast, AI explorer.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif">
