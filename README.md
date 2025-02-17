@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal Dua</h1>
 <h3 align="center">Cloud, DevOps enthusiast, AI explorer.</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/cloudd.gif">
-- 🔭 I’m currently working on Implementing Cloud-Native Microservices Architecture
 
 - 🌱 I’m currently learning **Microservices Architecture, Orchestation Tools, IAC**
 
